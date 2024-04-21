@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Physics Department # the website title (if blank, full name will be used instead)
-first_name: Dr. Jasneet
-middle_name: 
+title: Dr. Jasneet Kaur # the website title (if blank, full name will be used instead)
+first_name: Dr. 
+middle_name: Jasneet
 last_name: Kaur
 email: you@example.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
