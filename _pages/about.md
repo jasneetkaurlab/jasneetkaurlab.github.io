@@ -10,8 +10,9 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>MC E220</p>
-    <p>1812 Sir Isaac Brock Way</p>
-    <p>St. Catharines, ON L2S 3A1</p>
+    <p>1812 Sir Isaac Brock </p>
+    <p>Way, St. Catharines, ON</p>
+    <p>L2S 3A1</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
