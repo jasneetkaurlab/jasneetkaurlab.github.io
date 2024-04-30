@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Assistant Professor, Physics and Engineering at <a href='https://brocku.ca/'>Brock University</a>.
 
 profile:
   align: right
