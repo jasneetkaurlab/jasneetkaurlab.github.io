@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -11,8 +11,8 @@ profile:
   more_info: >
     <p>MC E220</p>
     <p>1812 Sir Isaac Brock </p>
-    <p>Way, St. Catharines, ON</p>
-    <p>L2S 3A1</p>
+    <p>Way, St. Catharines,</p>
+    <p>ON - L2S 3A1</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
