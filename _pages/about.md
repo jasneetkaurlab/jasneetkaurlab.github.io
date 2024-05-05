@@ -2,8 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor, Physics and Engineering at <a href='https://brocku.ca/'>Brock University</a>.
-
+subtitle: <b>Dr. Jasneet Kaur</b>, Assistant Professor, Physics and Engineering at <a href='https://brocku.ca/'>Brock University</a>.
 profile:
   align: right
   image: prof_pic.jpeg
@@ -19,8 +18,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Dr. Kaur’s current research focuses on design, synthesis, and characterization of novel nanostructured materials, such as two-dimensional materials and polymer composites for developing applications in clean energy technologies. 
+<h2> Welcome to the Sustainable Nano Engineered Materials Lab @ <a href='https://brocku.ca/'>Brock University!</a></h2>
+The research in Dr. Kaur’s group is at the interface of physics, chemistry and materials engineering with focus on synthesis of novel nanostructured materials, studying physical and chemical properties of nanomaterials, and entailing multidisciplinary applications from clean energy technologies to antimicrobial coatings, and water treatment. Current projects funded by NSERC, Canada are focused on designing novel solid state electrolytes using advanced materials and electrocatalysts for innovative electrode design for electrochemical devices, such as batteries, supercapacitors and water electrolysers for clean hydrogen production.
+ 
+Our group synthesizes, functionalizes, and characterizes nanomaterials, including two-dimensional materials, such as graphene, hexagonal boron nitrides and MXenes and fabricate nanocomposites using polymers. We investigate the structural, and chemical properties of 2D materials and study their interactions with functionalizers and polymers using advanced spectroscopic and microscopic techniques to develop innovative applications and clean technologies. 
 
-At Kaur’s lab, we develop surface engineered multifunctional materials and study their structural, chemical, and electrochemical properties using advanced microscopic and spectroscopic techniques for creating components for energy storage and conversion devices, such as batteries, supercapacitors, and water electrolysers for green hydrogen production. 
+Students working in Kaur group will gain experience in materials physics, analytical chemistry, electrochemistry, and advanced spectroscopic and characterization techniques, such as infrared spectroscopy, X-ray diffraction, Raman spectroscopy, scanning electron microscopy, atomic force microscopy and electrochemical impedance spectroscopy.
 
-We are also interested in creating advanced materials for applications in environmental remediation, such as water treatment and antimicrobial coatings.
+Students who are interested in joining the lab should contact Prof. Kaur @ jkaur2@brocku.ca.

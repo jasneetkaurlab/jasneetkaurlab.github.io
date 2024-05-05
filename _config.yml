@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: Dr. Jasneet Kaur # the website title (if blank, full name will be used instead)
-first_name: Dr. 
-middle_name: Jasneet
-last_name: Kaur
+first_name: Kaur
+middle_name:
+last_name: <b>Laboratory</b>
 email: jkaur2@brocku.ca
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
