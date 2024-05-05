@@ -25,4 +25,4 @@ Our group synthesizes, functionalizes, and characterizes nanomaterials, includin
 
 Students working in Kaur group will gain experience in materials physics, analytical chemistry, electrochemistry, and advanced spectroscopic and characterization techniques, such as infrared spectroscopy, X-ray diffraction, Raman spectroscopy, scanning electron microscopy, atomic force microscopy and electrochemical impedance spectroscopy.
 
-Students who are interested in joining the lab should contact Prof. Kaur @ jkaur2@brocku.ca.
+<b>Students who are interested in joining the lab should contact Prof. Kaur @ jkaur2@brocku.ca.</b>
