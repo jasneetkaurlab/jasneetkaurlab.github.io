@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<h2> Welcome to the Sustainable Nano Engineered Materials Lab @ <a href='https://brocku.ca/'>Brock University!</a></h2>
+<br/><h2> Welcome to the Sustainable Nano Engineered Materials Lab @ <a href='https://brocku.ca/'>Brock University!</a></h2>
 The research in Dr. Kaur’s group is at the interface of physics, chemistry and materials engineering with focus on synthesis of novel nanostructured materials, studying physical and chemical properties of nanomaterials, and entailing multidisciplinary applications from clean energy technologies to antimicrobial coatings, and water treatment. Current projects funded by NSERC, Canada are focused on designing novel solid state electrolytes using advanced materials and electrocatalysts for innovative electrode design for electrochemical devices, such as batteries, supercapacitors and water electrolysers for clean hydrogen production.
  
 Our group synthesizes, functionalizes, and characterizes nanomaterials, including two-dimensional materials, such as graphene, hexagonal boron nitrides and MXenes and fabricate nanocomposites using polymers. We investigate the structural, and chemical properties of 2D materials and study their interactions with functionalizers and polymers using advanced spectroscopic and microscopic techniques to develop innovative applications and clean technologies. 
