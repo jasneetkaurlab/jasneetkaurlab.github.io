@@ -6,10 +6,7 @@ nav: true
 nav_order: 4
 ---
 
-## Introduction
 The Kaur Research Group promotes a safe, welcoming, and inclusive research environment. We aim to include equity, diversity, and inclusion (EDI) principles throughout all aspects of our group. We welcome and support self-motivated researchers from all cultural and gender groups and promote a bias-free professional environment. We thoughtfully design personalized training plans that align with the personal and professional goals of each researcher.
-
-## Code of Conduct
 
 ### Academic Integrity
 - Scientific misconduct, including fabrication, falsification, and plagiarism, is strictly forbidden.
