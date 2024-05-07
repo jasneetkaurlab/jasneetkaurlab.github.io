@@ -2,12 +2,9 @@
 layout: page
 permalink: /repositories/
 title: Code of Conduct
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
 nav: true
 nav_order: 4
 ---
-
-# Code of Conduct, Kaur Group
 
 ## Introduction
 The Kaur Research Group promotes a safe, welcoming, and inclusive research environment. We aim to include equity, diversity, and inclusion (EDI) principles throughout all aspects of our group. We welcome and support self-motivated researchers from all cultural and gender groups and promote a bias-free professional environment. We thoughtfully design personalized training plans that align with the personal and professional goals of each researcher.
