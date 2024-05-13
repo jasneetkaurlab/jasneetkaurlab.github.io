@@ -2,7 +2,7 @@
 layout: page
 title: Instrumentation
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: List of instruments that our lab offers
 nav: true
 nav_order: 3
 display_categories: [work, fun]
