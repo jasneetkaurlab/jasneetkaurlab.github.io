@@ -18,8 +18,8 @@ profiles:
       <p>Masters in Material Physics</p>
       <p>hk22yh@brocku.ca</p>
 
-  - align: left
-    image: prof_pic.jpg
+  - align: right
+    image: prof_pic_color.jpg
     content: about_pritish.md
     image_circular: true # crops the image to make it circular
     more_info: >
@@ -27,21 +27,21 @@ profiles:
       <p>PhD in Material Physics</p>
       <p>yj23wd@brocku.ca</p>
 
-  #   - align: right
-  #   image: prof_pic.jpg
-  #   content: about_teresa.md
-  #   image_circular: true # crops the image to make it circular
-  #   more_info: >
-  #     <p>Teresa Dong</p>
-  #     <p>Masters in Material Physics</p>
-  #     <p>ce23ke@brocku.ca</p>
+  - align: right
+    image: prof_pic.jpg
+    content: about_teresa.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Teresa Dong</p>
+      <p>Masters in Material Physics</p>
+      <p>ce23ke@brocku.ca</p>
 
-  #   - align: left
-  #   image: hiten.jpg
-  #   content: about_hiten.md
-  #   image_circular: true # crops the image to make it circular
-  #   more_info: >
-  #     <p>Hitenkumar Patel</p>
-  #     <p>Research Undergraduate in Physics</p>
-  #     <p>hp19mx@brocku.ca</p>
+  - align: right
+    image: hiten.jpg
+    content: about_hiten.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Hitenkumar Patel</p>
+      <p>Research Undergraduate in Physics</p>
+      <p>hp19mx@brocku.ca</p>
 ---
