@@ -77,8 +77,9 @@ layout: default
     <style>
       .kaur-lab-component canvas {
           background: white;
-          width: 300px; /* Updated width */
-          height: 300px; /* Updated height for a square aspect */
+          width: 50%; /* Updated width */
+          /* height: ; Updated height for a square aspect */
+          max-width: 800px;
           display: block; /* Centers the canvas in the div */
           margin: 0 auto; /* Centers the canvas horizontally */
       }
@@ -137,7 +138,7 @@ layout: default
               x: x,
               y: y
           };
-          this.r = Math.random() * 5 + 2;
+          this.r = Math.random() * 3 + 1;
           this.vx = (Math.random() - 0.5) * 20;
           this.vy = (Math.random() - 0.5) * 20;
           this.accX = 0;
