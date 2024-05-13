@@ -77,8 +77,10 @@ layout: default
     <style>
       .kaur-lab-component canvas {
           background: white;
-          width: 50%; /* Adjust width and height as needed */
-          /* height: 100px; */
+          width: 300px; /* Updated width */
+          height: 300px; /* Updated height for a square aspect */
+          display: block; /* Centers the canvas in the div */
+          margin: 0 auto; /* Centers the canvas horizontally */
       }
       .kaur-lab-component input {
           width: 250px;
@@ -86,7 +88,8 @@ layout: default
           line-height: 40px;
           position: absolute;
           bottom: 35px;
-          left: calc(50% - 125px);
+          left: 50%; /* Centers input relative to the canvas */
+          transform: translateX(-50%); /* Adjusts horizontal positioning */
           background: rgba(255, 255, 255, 0.2);
           color: white;
           font-size: 30px;
@@ -122,9 +125,10 @@ layout: default
       var colors = ["#468966", "#FFF0A5", "#FFB03B", "#B64926", "#8E2800"];
   
       var copy = document.querySelector(".kaur-lab-component #kaurLabCopy");
-  
-      var ww = canvas.width = window.innerWidth;
-      var wh = canvas.height = window.innerHeight;
+
+      // Set initial width and height based on canvas style
+      var ww = canvas.width = canvas.offsetWidth;
+      var wh = canvas.height = canvas.offsetHeight;
   
       function Particle(x, y) {
           this.x = Math.random() * ww;
@@ -188,8 +192,9 @@ layout: default
       }
   
       function initScene() {
-          ww = canvas.width = window.innerWidth;
-          wh = canvas.height = window.innerHeight;
+          // Reinitialize dimensions on resize
+          ww = canvas.width = canvas.offsetWidth;
+          wh = canvas.height = canvas.offsetHeight;
   
           ctx.clearRect(0, 0, canvas.width, canvas.height);
   
@@ -237,5 +242,5 @@ layout: default
       requestAnimationFrame(render);
     </script>
   </div>
-  
+
 </div>
