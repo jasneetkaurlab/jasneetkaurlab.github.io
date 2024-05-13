@@ -84,19 +84,8 @@ layout: default
           margin: 0 auto; /* Centers the canvas horizontally */
       }
       .kaur-lab-component input {
-          width: 250px;
-          height: 40px;
-          line-height: 40px;
-          position: absolute;
-          bottom: 35px;
-          left: 50%; /* Centers input relative to the canvas */
-          transform: translateX(-50%); /* Adjusts horizontal positioning */
-          background: rgba(255, 255, 255, 0.2);
-          color: white;
-          font-size: 30px;
-          font-family: arial;
-          text-align: center;
-          border: 1px solid white;
+        visibility: hidden; /* Hides the input field */
+        pointer-events: none; /* Makes the input field non-interactable */
       }
       .kaur-lab-component p {
           position: fixed;
