@@ -18,7 +18,7 @@ profiles:
       <p>Masters in Material Physics</p>
       <p>hk22yh@brocku.ca</p>
 
-  - align: right
+  - align: left
     image: prof_pic_color.jpg
     content: about_pritish.md
     image_circular: true # crops the image to make it circular
@@ -28,7 +28,7 @@ profiles:
       <p>yj23wd@brocku.ca</p>
 
   - align: right
-    image: prof_pic.jpg
+    image: prof_pic_color.jpg
     content: about_teresa.md
     image_circular: true # crops the image to make it circular
     more_info: >
@@ -36,7 +36,7 @@ profiles:
       <p>Masters in Material Physics</p>
       <p>ce23ke@brocku.ca</p>
 
-  - align: right
+  - align: left
     image: hiten.jpg
     content: about_hiten.md
     image_circular: true # crops the image to make it circular
