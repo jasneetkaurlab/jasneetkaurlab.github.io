@@ -1,5 +1,6 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+### Biography
+Nitish joined the Sustainable Nano Engineered Materials Lab in 2022, after completing a BSc in Physics from [Undergraduate Institution]. With a keen interest in the practical applications of material science to solve real-world problems, [Student Name] focuses on the synthesis and characterization of nanocomposite materials designed for improved energy storage systems.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+### Current Research
+Under the guidance of Dr. Jasneet Kaur, [Student Name] is currently engaged in a project that aims to enhance the efficiency and durability of supercapacitors using innovative electrode materials. The project involves the development of new nanocomposite structures that can offer higher energy density and faster charge cycles.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
