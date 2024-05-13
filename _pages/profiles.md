@@ -6,17 +6,17 @@ description: The lab is operated by dedicated undergraduate students, master's s
 nav: true
 nav_order: 7
 
-# profiles:
-#   # if you want to include more than one profile, just replicate the following block
-#   # and create one content file for each profile inside _pages/
-#   - align: right
-#     image: hansima.jpeg
-#     content: about_hansima.md
-#     image_circular: false # crops the image to make it circular
-#     more_info: >
-#       <p>Hansima Keppetiyawa</p>
-#       <p>Masters in Material Physics</p>
-#       <p>hk22yh@brocku.ca</p>
+profiles:
+  # if you want to include more than one profile, just replicate the following block
+  # and create one content file for each profile inside _pages/
+  - align: right
+    image: hansima.jpeg
+    content: about_hansima.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Hansima Keppetiyawa</p>
+      <p>Masters in Material Physics</p>
+      <p>hk22yh@brocku.ca</p>
 
   # - align: left
   #   image: prof_pic.jpg
