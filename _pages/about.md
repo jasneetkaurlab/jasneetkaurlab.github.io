@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <span style="font-size:1.05em;"> <b>Dr. Jasneet Kaur</b>, Assistant Professor, Physics and Engineering at <a href='https://brocku.ca/'>Brock University</a>. <br/></span>
+subtitle: <span style="font-size:1.05em;"> <b>Dr. Jasneet Kaur</b>, Assistant Professor, Physics and Engineering at <a href='https://brocku.ca/'>Brock University</a>. <br/></span><br>
 profile:
   align: right
   image: prof_pic.jpeg
@@ -12,6 +12,7 @@ profile:
     <p>1812 Sir Isaac Brock Way,</p>
     <p>St. Catharines,</p>
     <p>ON - L2S 3A1</p>
+    <br>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
