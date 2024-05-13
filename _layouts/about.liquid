@@ -175,8 +175,9 @@ layout: default
       };
   
       function onMouseMove(e) {
-          mouse.x = e.clientX;
-          mouse.y = e.clientY;
+          var rect = canvas.getBoundingClientRect();
+          mouse.x = e.clientX - rect.left;
+          mouse.y = e.clientY - rect.top;
       }
   
       function onTouchMove(e) {
