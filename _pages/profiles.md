@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: People
-description: members of the lab or group
+description: The lab is operated by dedicated undergraduate students, master's students, and PhD candidates, each bringing unique skills and perspectives to our multidisciplinary research projects. Dr. Kaur and her team are committed to fostering an environment of learning and innovation.
 nav: true
 nav_order: 7
 
@@ -10,19 +10,38 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: hansima.jpeg
+    content: about_hansima.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Hansima Keppetiyawa</p>
+      <p>Masters in Material Physics</p>
+      <p>hk22yh@brocku.ca</p>
+
   - align: left
     image: prof_pic.jpg
-    content: about_einstein.md
+    content: about_pritish.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Pritish Behura</p>
+      <p>PhD in Material Physics</p>
+      <p>yj23wd@brocku.ca</p>
+
+    - align: right
+    image: prof_pic.jpg
+    content: about_teresa.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Teresa Dong</p>
+      <p>Masters in Material Physics</p>
+      <p>ce23ke@brocku.ca</p>
+
+    - align: left
+    image: hiten.jpg
+    content: about_hiten.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Hitenkumar Patel</p>
+      <p>Research Undergraduate in Physics</p>
+      <p>hp19mx@brocku.ca</p>
 ---
