@@ -2,7 +2,7 @@
 layout: page
 title: Instrumentation
 permalink: /projects/
-description: List of instruments that our lab offers
+description: Key instruments used in our lab, each critical to our research in material sciences
 nav: true
 nav_order: 3
 display_categories: [work, fun]
