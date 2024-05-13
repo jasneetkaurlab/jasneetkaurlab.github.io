@@ -18,14 +18,14 @@ profiles:
       <p>Masters in Material Physics</p>
       <p>hk22yh@brocku.ca</p>
 
-  # - align: left
-  #   image: prof_pic.jpg
-  #   content: about_pritish.md
-  #   image_circular: true # crops the image to make it circular
-  #   more_info: >
-  #     <p>Pritish Behura</p>
-  #     <p>PhD in Material Physics</p>
-  #     <p>yj23wd@brocku.ca</p>
+  - align: left
+    image: prof_pic.jpg
+    content: about_pritish.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Pritish Behura</p>
+      <p>PhD in Material Physics</p>
+      <p>yj23wd@brocku.ca</p>
 
   #   - align: right
   #   image: prof_pic.jpg
