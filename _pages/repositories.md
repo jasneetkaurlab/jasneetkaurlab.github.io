@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /repositories/
+permalink: /codeOfConduct/
 title: Code of Conduct
 nav: true
 nav_order: 4
