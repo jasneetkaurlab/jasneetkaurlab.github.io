@@ -1,6 +1,2 @@
 ### Biography
-Hansima joined the Sustainable Nano Engineered Materials Lab in 2022, after completing a BSc in Physics from [Undergraduate Institution]. With a keen interest in the practical applications of material science to solve real-world problems, [Student Name] focuses on the synthesis and characterization of nanocomposite materials designed for improved energy storage systems.
-
-### Current Research
-Under the guidance of Dr. Jasneet Kaur, [Student Name] is currently engaged in a project that aims to enhance the efficiency and durability of supercapacitors using innovative electrode materials. The project involves the development of new nanocomposite structures that can offer higher energy density and faster charge cycles.
-
+Hansima completed B.Sc. in Physics from University of Jaffna, Sri Lanka in 2019. She joined the Kaur group to pursue M.Sc. in Physics in January 2023. Her research focuses on synthesis and characterization of titanium carbide MXenes and fabrication of solid-state electrolytes using novel MXenes and polymer composites. Hansima also helps in managing lab inventory and keeping lab instruments in order. In leisure time, she enjoys singing, drawing, and cooking.

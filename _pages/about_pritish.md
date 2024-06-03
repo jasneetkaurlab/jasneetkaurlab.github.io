@@ -1,5 +1,2 @@
 ### Biography
-Nitish joined the Sustainable Nano Engineered Materials Lab in 2022, after completing a BSc in Physics from [Undergraduate Institution]. With a keen interest in the practical applications of material science to solve real-world problems, [Student Name] focuses on the synthesis and characterization of nanocomposite materials designed for improved energy storage systems.
-
-### Current Research
-Under the guidance of Dr. Jasneet Kaur, [Student Name] is currently engaged in a project that aims to enhance the efficiency and durability of supercapacitors using innovative electrode materials. The project involves the development of new nanocomposite structures that can offer higher energy density and faster charge cycles.
+Pritish has completed M.Sc in Physics from the Indian Institute of Science Education and Research (IISER), Trivandrum, India in 2022. He joined the Kaur group in September 2023 to pursue PhD in Physics. Pritish is currently working on developing novel electrocatalysts for green hydrogen production by water electrolysis and fabricating energy conversion and storage devices. He is eager to learn and explore new techniques for synthesis of 2D materials and advanced characterization to study chemical functionalization. He enjoys cooking, watching movies, and reading books in his free time.

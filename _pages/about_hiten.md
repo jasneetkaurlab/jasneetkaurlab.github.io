@@ -1,6 +1,2 @@
 ### Biography
-Hiten joined the Sustainable Nano Engineered Materials Lab in 2022, after completing a BSc in Physics from [Undergraduate Institution]. With a keen interest in the practical applications of material science to solve real-world problems, [Student Name] focuses on the synthesis and characterization of nanocomposite materials designed for improved energy storage systems.
-
-### Current Research
-Under the guidance of Dr. Jasneet Kaur, [Student Name] is currently engaged in a project that aims to enhance the efficiency and durability of supercapacitors using innovative electrode materials. The project involves the development of new nanocomposite structures that can offer higher energy density and faster charge cycles.
-
+Hiten started pursuing Honours Bachelors of Science in Physics (with co-op) from January 2020. He joined the Kaur group to work on PHYS 4F90/91 Research Project in May 2024. His research focuses on synthesis and characterization of PEMs and fabrication using hBN and polymer composites. In leisure time, he enjoys listening to music, drawing art, and learning new skills.
