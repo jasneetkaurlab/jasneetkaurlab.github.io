@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Instrumentation
-permalink: /projects/
+permalink: /instrumentation/
 description: Key instruments used in our lab, each critical to our research in material sciences
 nav: true
 nav_order: 3
