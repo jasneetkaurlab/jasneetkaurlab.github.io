@@ -6,6 +6,18 @@ description: The lab is operated by dedicated undergraduate students, master's s
 nav: true
 nav_order: 7
 
+bigprofile:
+  # if you want to include more than one profile, just replicate the following block
+  # and create one content file for each profile inside _pages/
+  - image: prof_pic.jpeg
+    content: about_prof.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>MC E220</p>
+      <p>1812 Sir Isaac Brock Way,</p>
+      <p>St. Catharines,</p>
+      <p>ON - L2S 3A1</p>
+
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
