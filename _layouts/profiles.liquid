@@ -3,7 +3,7 @@ layout: page
 ---
 <div class="post">
   <article>
-    
+
     {% if page.bigprofiles %}
       {% for bigprofile in page.bigprofiles %}
         <hr>
@@ -15,7 +15,7 @@ layout: page
             {% else %}
               {% assign bigprofile_image_class = 'img-fluid z-depth-1 rounded' %}
             {% endif %}
-            {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.21}}px, (min-width: 576px) 21vw, 66.5vw"{% endcapture %}
+            {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.105}}px, (min-width: 576px) 10.5vw, 33.25vw{% endcapture %}
             {% include figure.liquid loading="eager" path=bigprofile_image_path class=bigprofile_image_class sizes=sizes alt=bigprofile.image %}
           {% endif %}
           {% if bigprofile.more_info %}
@@ -33,6 +33,7 @@ layout: page
         </div>
       {% endfor %}
     {% endif %}
+
 
     {% if page.profiles %}
       {% for profile in page.profiles %}
