@@ -11,6 +11,7 @@ bigprofiles:
   # and create one content file for each profile inside _pages/
   - image: prof_pic.jpeg
     image_circular: true # crops the image to make it circular
+    content: about_hansima.md
 
 
 profiles:
