@@ -16,7 +16,7 @@ pagination:
     after: 3 # The number of links after the current page
 ---
 
-<h2>Discovery of Nanomaterials and Advanced Composites for Clean Energy Technologies</h2>
+<h2><b>Discovery of Nanomaterials and Advanced Composites for Clean Energy Technologies</b></h2>
 
 <h3>Nanoscience and Surface Engineering</h3>
 <p>We learn to control size, engineer surface by studying surface physics and chemistry, and structure of nanomaterials, including two-dimensional nanostructures to design and create new materials and study nanoscale phenomena. We also perform in-situ and ex-situ functionalization on the surface of nanostructures with ionomers, organic or inorganic molecules to tune the properties of nanomaterials and study mechanisms of interactions. The ability to surface engineering and tuning the properties of nanomaterials by varying their structural characteristics, such as size, shape, surface morphology, and surface chemistry paves the way for a variety of applications.</p>
