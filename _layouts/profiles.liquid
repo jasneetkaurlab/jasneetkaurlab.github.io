@@ -3,6 +3,37 @@ layout: page
 ---
 <div class="post">
   <article>
+    
+    {% if page.bigprofiles %}
+      {% for bigprofile in page.bigprofiles %}
+        <hr>
+        <div class="bigprofile text-center">
+          {% if bigprofile.image %}
+            {% assign bigprofile_image_path = bigprofile.image | prepend: 'assets/img/' %}
+            {% if bigprofile.image_circular %}
+              {% assign bigprofile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+            {% else %}
+              {% assign bigprofile_image_class = 'img-fluid z-depth-1 rounded' %}
+            {% endif %}
+            {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.21}}px, (min-width: 576px) 21vw, 66.5vw"{% endcapture %}
+            {% include figure.liquid loading="eager" path=bigprofile_image_path class=bigprofile_image_class sizes=sizes alt=bigprofile.image %}
+          {% endif %}
+          {% if bigprofile.more_info %}
+            <div class="more-info mt-3">{{ bigprofile.more_info }}</div>
+          {% endif %}
+        </div>
+
+        <div class="text-center mt-3">
+          {% if bigprofile.content %}
+            {% capture bigprofile_content %}{% include_relative {{ bigprofile.content }} %}{% endcapture %}
+            {{ bigprofile_content | markdownify }}
+          {% else %}
+            {{ content }}
+          {% endif %}
+        </div>
+      {% endfor %}
+    {% endif %}
+
     {% if page.profiles %}
       {% for profile in page.profiles %}
         <hr>
@@ -33,34 +64,6 @@ layout: page
       {% endfor %}
     {% endif %}
 
-    {% if page.bigprofiles %}
-      {% for bigprofile in page.bigprofiles %}
-        <hr>
-        <div class="bigprofile text-center">
-          {% if bigprofile.image %}
-            {% assign bigprofile_image_path = bigprofile.image | prepend: 'assets/img/' %}
-            {% if bigprofile.image_circular %}
-              {% assign bigprofile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
-            {% else %}
-              {% assign bigprofile_image_class = 'img-fluid z-depth-1 rounded' %}
-            {% endif %}
-            {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.21}}px, (min-width: 576px) 21vw, 66.5vw"{% endcapture %}
-            {% include figure.liquid loading="eager" path=bigprofile_image_path class=bigprofile_image_class sizes=sizes alt=bigprofile.image %}
-          {% endif %}
-          {% if bigprofile.more_info %}
-            <div class="more-info mt-3">{{ bigprofile.more_info }}</div>
-          {% endif %}
-        </div>
-
-        <div class="text-center mt-3">
-          {% if bigprofile.content %}
-            {% capture bigprofile_content %}{% include_relative {{ bigprofile.content }} %}{% endcapture %}
-            {{ bigprofile_content | markdownify }}
-          {% else %}
-            {{ content }}
-          {% endif %}
-        </div>
-      {% endfor %}
-    {% endif %}
+    
   </article>
 </div>
