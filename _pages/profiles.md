@@ -9,12 +9,19 @@ nav_order: 7
 bigprofiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-  - image: prof_pic.jpeg
-    image_circular: true # crops the image to make it circular
-    content: about_hansima.md
 
 
 profiles:
+  - align: right
+    image: prof_pic.jpeg
+    content: about_prof.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Dr. Jasneet Kaur</p>
+      <p>Assistant Professor, Physics and Engineering at Brock University.</p>
+      <p>MC E220 1812 Sir Isaac Brock Way, St. Catharines, ON - L2S 3A1</p>
+      <p>jkaur2@brocku.ca</p>
+
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
