@@ -15,7 +15,7 @@ layout: page
             {% else %}
               {% assign bigprofile_image_class = 'img-fluid z-depth-1 rounded' %}
             {% endif %}
-            {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.05}}px, (min-width: 200px) 1vw, 1vw{% endcapture %}
+            {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.05}}px, (min-width: 100px) 0.5vw, 0.5vw{% endcapture %}
             {% include figure.liquid loading="eager" path=bigprofile_image_path class=bigprofile_image_class sizes=sizes alt=bigprofile.image %}
           {% endif %}
           {% if bigprofile.more_info %}
