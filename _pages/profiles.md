@@ -12,7 +12,7 @@ bigprofiles:
 
 
 profiles:
-  - align: right
+  - align: left
     image: prof_pic.jpeg
     content: about_prof.md
     image_circular: true # crops the image to make it circular
