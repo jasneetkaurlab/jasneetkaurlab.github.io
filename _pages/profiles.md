@@ -6,10 +6,6 @@ description: The lab is operated by dedicated undergraduate students, master's s
 nav: true
 nav_order: 7
 
-bigprofiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-
 
 profiles:
   - align: left
