@@ -3,21 +3,26 @@ layout: default
 ---
   <div class="post" style="text-align: left; max-width: 800px; margin: auto;">
     <header class="post-header">
-      {% comment %} <h1 class="post-title">
+      {% comment %}
+      <h1 class="post-title">
         {% if site.title == 'blank' %}
           <div class="font-weight-bold" style="text-align: center;">{{ site.first_name }}</div> {{ site.middle_name }} {{ site.last_name }}
         {% else %}
           <div class="font-weight-bold" style="text-align: center;">{{ site.title }}</div>
         {% endif %}
-      </h1> {% endcomment %}
+      </h1>
+      {% endcomment %}
       {% if site.image %}
-        <div style="text-align: center;">
+        <div style="text-align: center; padding: 20px 0;">
           <img src="{{ site.image }}" alt="Logo" style="max-width: 50%; height: auto;">
         </div>
       {% endif %}
-      {% comment %} <p class="desc" style="text-align: center;">{{ page.subtitle }}</p> {% endcomment %}
+      {% comment %}
+      <p class="desc" style="text-align: center;">{{ page.subtitle }}</p>
+      {% endcomment %}
     </header>
   </div>
+  
   
 
   <article>
