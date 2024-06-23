@@ -1,17 +1,24 @@
 ---
 layout: default
 ---
-<div class="post" style="text-align: left; max-width: 800px; margin: auto;">
-  <header class="post-header">
-    <h1 class="post-title">
-      {% if site.title == 'blank' %}
-        <div class="font-weight-bold" style="text-align: center;">{{ site.first_name }}</div> {{ site.middle_name }} {{ site.last_name }}
-      {% else %}
-        <div class="font-weight-bold" style="text-align: center;"> {{ site.title }}</div>
+  <div class="post" style="text-align: left; max-width: 800px; margin: auto;">
+    <header class="post-header">
+      <h1 class="post-title">
+        {% if site.title == 'blank' %}
+          <div class="font-weight-bold" style="text-align: center;">{{ site.first_name }}</div> {{ site.middle_name }} {{ site.last_name }}
+        {% else %}
+          <div class="font-weight-bold" style="text-align: center;">{{ site.title }}</div>
+        {% endif %}
+      </h1>
+      {% if site.image %}
+        <div style="text-align: center;">
+          <img src="{{ site.image }}" alt="Logo" style="max-width: 100%; height: auto;">
+        </div>
       {% endif %}
-    </h1>
-    <p class="desc" style="text-align: center;">{{ page.subtitle }}</p>
-  </header>
+      <p class="desc" style="text-align: center;">{{ page.subtitle }}</p>
+    </header>
+  </div>
+  
 
   <article>
     {% if page.profile %}
