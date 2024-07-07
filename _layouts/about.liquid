@@ -2,22 +2,26 @@
 layout: default
 ---
 <div class="post" style="text-align: left; max-width: 800px; margin: auto;">
-  <header class="post-header" style="text-align: center; padding: 20px 0;">
-    {% if site.image %}
-      <div style="margin-bottom: 10px;">
-        <img src="{{ site.image }}" alt="Logo" style="max-width: 150px; height: auto;">
+  <header class="post-header" style="padding: 20px 0;">
+    <div style="display: flex; align-items: center; justify-content: space-between;">
+      <div style="text-align: left;">
+        {% if site.lab_name %}
+          <h1 class="post-title" style="font-size: 2em; margin-bottom: 5px; margin-top: 0;">
+            {{ site.lab_name }}
+          </h1>
+        {% endif %}
+        {% if site.university %}
+          <h2 class="post-subtitle" style="font-size: 1.2em; color: #666; margin-top: 0;">
+            {{ site.university }}
+          </h2>
+        {% endif %}
       </div>
-    {% endif %}
-    {% if site.lab_name %}
-      <h1 class="post-title" style="font-size: 2em; margin-bottom: 5px;">
-        {{ site.lab_name }}
-      </h1>
-    {% endif %}
-    {% if site.university %}
-      <h2 class="post-subtitle" style="font-size: 1.2em; color: #666;">
-        {{ site.university }}
-      </h2>
-    {% endif %}
+      {% if site.image %}
+        <div style="margin-left: 10px;">
+          <img src="{{ site.image }}" alt="Logo" style="max-width: 100px; height: auto;">
+        </div>
+      {% endif %}
+    </div>
   </header>
 </div>
 
