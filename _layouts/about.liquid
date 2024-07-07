@@ -19,7 +19,7 @@ layout: default
           <div class="carousel-inner">
             {% for image in page.profile.images %}
               <div class="carousel-item {% if forloop.first %}active{% endif %}">
-                <img src="{{ image | prepend: 'assets/img/' }}" class="d-block w-100" alt="Profile Image">
+                <img src="{{ image | prepend: 'assets/img/' }}" class="profile-image d-block w-100" alt="Profile Image">
               </div>
             {% endfor %}
           </div>
@@ -96,6 +96,15 @@ layout: default
         width: 100%;
         text-align: center;
         margin: 0;
+    }
+    .profile-image {
+      object-fit: cover;
+      border-radius: 15px;
+      box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+      width: 100%;
+      height: auto;
+      max-width: 300px; /* Ensure images are square */
+      max-height: 300px;
     }
   </style>
   <canvas id="kaurLabScene"></canvas>
