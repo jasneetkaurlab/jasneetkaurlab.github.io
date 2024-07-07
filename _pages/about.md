@@ -6,9 +6,9 @@ subtitle: <span style="font-size:1.05em;"> <b>Dr. Jasneet Kaur</b>, Assistant Pr
 profile:
   align: right
   images:
-    - image1.jpg
-    - image2.jpg
-    - image3.jpg
+    - 1.jpg
+    - 2.jpg
+    - 3.jpg
   more_info: "This is additional information about the profile."
   image_circular: false # crops the image to make it circular
   more_info: >
