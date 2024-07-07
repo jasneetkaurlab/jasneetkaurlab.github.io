@@ -2,11 +2,21 @@
 layout: default
 ---
 <div class="post" style="text-align: left; max-width: 800px; margin: auto;">
-  <header class="post-header">
-    {% if site.title %}
-      <h1 class="post-title" style="text-align: center;">
-        <div class="font-weight-bold">{{ site.title }}</div>
+  <header class="post-header" style="text-align: center; padding: 20px 0;">
+    {% if site.image %}
+      <div style="margin-bottom: 10px;">
+        <img src="{{ site.image }}" alt="Logo" style="max-width: 150px; height: auto;">
+      </div>
+    {% endif %}
+    {% if site.lab_name %}
+      <h1 class="post-title" style="font-size: 2em; margin-bottom: 5px;">
+        {{ site.lab_name }}
       </h1>
+    {% endif %}
+    {% if site.university %}
+      <h2 class="post-subtitle" style="font-size: 1.2em; color: #666;">
+        {{ site.university }}
+      </h2>
     {% endif %}
   </header>
 </div>
@@ -100,8 +110,8 @@ layout: default
         margin: 0;
     }
     .profile-image-container {
-      width: 400px; /* Increased width */
-      height: 400px; /* Increased height */
+      width: 400px;
+      height: 400px;
       overflow: hidden;
       margin: 0 auto;
       display: flex;
