@@ -15,9 +15,7 @@ layout: default
   
           {% if site.lab_name %}
             <h1 class="post-title" style="font-family: 'Lato', sans-serif; font-size: 3em; margin-bottom: 5px; margin-top: 0;">
-              <span style="color: #58b376;">
-                {{ site.lab_name | split: ' ' | first }} {{ site.lab_name | split: ' ' | slice: 1 }}
-              </span>
+              <span style="color: #58b376;">{{ site.lab_name | split: ' ' | first }}</span>
               {{ site.lab_name | remove_first: site.lab_name | split: ' ' | first | append: ' ' | append: site.lab_name | split: ' ' | slice: 1 }}
             </h1>
           {% endif %}
