@@ -22,6 +22,19 @@ pagination:
 <p>We learn to control size, engineer surface by studying surface physics and chemistry, and structure of nanomaterials, including two-dimensional nanostructures to design and create new materials and study nanoscale phenomena. We also perform in-situ and ex-situ functionalization on the surface of nanostructures with ionomers, organic or inorganic molecules to tune the properties of nanomaterials and study mechanisms of interactions. The ability to surface engineering and tuning the properties of nanomaterials by varying their structural characteristics, such as size, shape, surface morphology, and surface chemistry paves the way for a variety of applications.</p>
 
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/tipSonicator.png" title="Tip sonicator" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/MXene.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    This image can also have a caption. It's like magic.
+</div>
+
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
