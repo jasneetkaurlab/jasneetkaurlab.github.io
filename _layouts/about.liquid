@@ -1,34 +1,37 @@
 ---
 layout: default
 ---
-  <div class="post" style="text-align: left; max-width: 800px; margin: auto;">
-    <header class="post-header" style="padding: 10px 0;">
-      <div style="display: flex; align-items: center;">
-        {% if site.image %}
-          <div style="margin-right: 10px;">
-            <img src="{{ site.image }}" alt="Logo" style="max-width: 200px; height: auto;">
+  <div style="display: flex; justify-content: center;">
+    <span class="post" style="text-align: left; max-width: 800px; margin: auto;">
+      <header class="post-header" style="padding: 10px 0;">
+        <div style="display: flex; align-items: center;">
+          {% if site.image %}
+            <div style="margin-right: 10px;">
+              <img src="{{ site.image }}" alt="Logo" style="max-width: 200px; height: auto;">
+            </div>
+          {% endif %}
+          <div>
+            <!-- Line between logo and text -->
+            <hr style="margin: 10px 0; border: none; border-top: 2px solid #ccc;">
+    
+            {% if site.lab_name %}
+              <h1 class="post-title" style="font-family: 'Lato', sans-serif; font-size: 3em; margin-bottom: 5px; margin-top: 0;">
+                <span style="color: #58b376;">{{ site.lab_name | split: ' ' | first }}</span>
+                {{ site.lab_name | remove_first: site.lab_name | split: ' ' | first | append: ' ' | append: site.lab_name | split: ' ' | slice: 1 }}
+              </h1>
+            {% endif %}
+            
+            {% if site.university %}
+              <h2 class="post-subtitle" style="font-family: 'Lato', sans-serif; font-size: 1.5em; color: #666; margin-top: 0;">
+                {{ site.university }}
+              </h2>
+            {% endif %}
           </div>
-        {% endif %}
-        <div>
-          <!-- Line between logo and text -->
-          <hr style="margin: 10px 0; border: none; border-top: 2px solid #ccc;">
-  
-          {% if site.lab_name %}
-            <h1 class="post-title" style="font-family: 'Lato', sans-serif; font-size: 3em; margin-bottom: 5px; margin-top: 0;">
-              <span style="color: #58b376;">{{ site.lab_name | split: ' ' | first }}</span>
-              {{ site.lab_name | remove_first: site.lab_name | split: ' ' | first | append: ' ' | append: site.lab_name | split: ' ' | slice: 1 }}
-            </h1>
-          {% endif %}
-          
-          {% if site.university %}
-            <h2 class="post-subtitle" style="font-family: 'Lato', sans-serif; font-size: 1.5em; color: #666; margin-top: 0;">
-              {{ site.university }}
-            </h2>
-          {% endif %}
         </div>
-      </div>
-    </header>
+      </header>
+    </span>
   </div>
+  
   
   <!-- Include Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
