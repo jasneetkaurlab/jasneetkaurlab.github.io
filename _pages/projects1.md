@@ -3,7 +3,7 @@ layout: page
 title: Instrumentation
 permalink: /instrumentation/
 description: Key instruments used in our lab, each critical to our research in material sciences
-nav: true
+nav: false
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
