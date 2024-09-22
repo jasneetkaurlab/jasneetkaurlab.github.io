@@ -37,7 +37,7 @@ pagination:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/AFM.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -77,7 +77,7 @@ pagination:
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Bidirectional Superionic Conduction in Surface-Engineered 2D Hexagonal Boron Nitrides, J. Kaur et al. ACS Applied Materials and Interfaces, 2021 https://pubs.acs.org/doi/10.1021/acsami.0c21234
 </div>
 
 <h3>Electrochemical Cells and Device Assembly</h3>
@@ -90,5 +90,5 @@ pagination:
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic. {% cite Kaur et al. ACS Applied Materials and Interfaces, 2021 %}
+    2D Hexagonal Boron Nitrides for Anion Exchange Membrane Water Electrolysis and Sustainable Hydrogen Production, J. Kaur et al. 2024.
 </div>
