@@ -69,11 +69,11 @@ pagination:
 <p>Our focus is on creating flexible and durable solid-state electrolytes for all-solid-state batteries and high energy density supercapacitors. We utilize the multifunctionality and unique features of nanostructured materials and 2D materials to create specific ion conductive solid-state electrolytes and study the mechanisms of ion transport.</p>
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/membrane.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/iecproperty.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
