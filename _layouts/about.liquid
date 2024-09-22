@@ -46,8 +46,8 @@ layout: default
           <div class="carousel-inner">
             {% for image in page.profile.images %}
               <div class="carousel-item {% if forloop.first %}active{% endif %}">
-                <div class="profile-image-container">
-                  <img src="{{ image | prepend: 'assets/img/' }}" class="profile-image" alt="Profile Image">
+                <div class="profile-image-container" style="width: 100%; height: auto; text-align: center;">
+                  <img src="{{ image | prepend: 'assets/img/' }}" class="profile-image" alt="Profile Image" style="object-fit: contain; width: 100%; height: auto; max-width: 400px; max-height: 400px;">
                 </div>
               </div>
             {% endfor %}
@@ -67,6 +67,7 @@ layout: default
       {% endif %}
     </div><br>
   {% endif %}
+  
 
   <div style="clear: both;"></div>
   {{ content }}
