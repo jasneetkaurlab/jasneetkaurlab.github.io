@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Hiten1708.github.io/sitemap.xml
+Sitemap: https://JKaurPhysics.github.io/sitemap.xml
