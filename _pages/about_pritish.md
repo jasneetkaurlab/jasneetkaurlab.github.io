@@ -1,2 +1,3 @@
 ### Biography
+
 Pritish has completed M.Sc in Physics from the Indian Institute of Science Education and Research (IISER), Trivandrum, India in 2022. He joined the Kaur group in September 2023 to pursue PhD in Physics. Pritish is currently working on developing novel electrocatalysts for green hydrogen production by water electrolysis and fabricating energy conversion and storage devices. He is eager to learn and explore new techniques for synthesis of 2D materials and advanced characterization to study chemical functionalization. He enjoys cooking, watching movies, and reading books in his free time.

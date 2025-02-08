@@ -6,7 +6,6 @@ description: The lab is operated by dedicated undergraduate students, master's s
 nav: true
 nav_order: 7
 
-
 profiles:
   - align: left
     image: prof_pic.jpeg
