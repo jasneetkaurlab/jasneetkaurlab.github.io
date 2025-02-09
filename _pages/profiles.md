@@ -19,16 +19,8 @@ profiles:
 
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
+  
   - align: right
-    image: hansima.jpg
-    content: about_hansima.md
-    image_circular: true # crops the image to make it circular
-    more_info: >
-      <p>Hansima Keppetiyawa</p>
-      <p>Masters in Material Physics</p>
-      <p>hk22yh@brocku.ca</p>
-
-  - align: left
     image: pritish.jpg
     content: about_pritish.md
     image_circular: true # crops the image to make it circular
@@ -36,6 +28,15 @@ profiles:
       <p>Pritish Behura</p>
       <p>PhD in Material Physics</p>
       <p>yj23wd@brocku.ca</p>
+
+  - align: left
+    image: hansima.jpg
+    content: about_hansima.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Hansima Keppetiyawa</p>
+      <p>Masters in Material Physics</p>
+      <p>hk22yh@brocku.ca</p>
 
   - align: right
     image: teresa.jpg
