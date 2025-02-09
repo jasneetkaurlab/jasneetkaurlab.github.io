@@ -71,9 +71,9 @@ profiles:
     content: about_hiten.md
     image_circular: true # crops the image to make it circular
     more_info: >
-    <div style="text-align: center;">
+     <div style="text-align: center;">
       <p><strong>Hitenkumar Patel</strong></p>
       <p>Research Undergraduate in Physics</p>
       <p>hp19mx@brocku.ca</p>
-    </div>
+     </div>
 ---
