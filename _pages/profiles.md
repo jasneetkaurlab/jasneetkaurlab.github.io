@@ -26,10 +26,20 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Pritish Behura</p>
-      <p>PhD in Material Physics</p>
+      <p>PhD in Physics</p>
       <p>yj23wd@brocku.ca</p>
 
+
   - align: left
+    image: gurmeet.jpg
+    content: about_gurmeet.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Gurmeet Singh</p>
+      <p>PhD in Physics</p>
+      <p>wv24qq@brocku.ca</p>
+
+  - align: right
     image: hansima.jpg
     content: about_hansima.md
     image_circular: true # crops the image to make it circular
@@ -38,7 +48,7 @@ profiles:
       <p>Masters in Material Physics</p>
       <p>hk22yh@brocku.ca</p>
 
-  - align: right
+  - align: left
     image: teresa.jpg
     content: about_teresa.md
     image_circular: true # crops the image to make it circular
@@ -47,7 +57,7 @@ profiles:
       <p>Masters in Material Physics</p>
       <p>ce23ke@brocku.ca</p>
 
-  - align: left
+  - align: right
     image: hiten.jpg
     content: about_hiten.md
     image_circular: true # crops the image to make it circular
