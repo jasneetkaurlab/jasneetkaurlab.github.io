@@ -4,6 +4,7 @@
     "prettier": "^3.5.1"
   },
   "dependencies": {
-    "docker": "^1.0.0"
+    "docker": "^1.0.0",
+    "jekyll": "^3.0.0-beta1"
   }
 }
