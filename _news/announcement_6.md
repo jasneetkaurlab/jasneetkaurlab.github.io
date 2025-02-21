@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Dr. Kaur received approval for an AFM through the NSERC RTI (Research Tools and Instruments) Grant.
+Prof. Kaur received approval for an AFM through the NSERC RTI (Research Tools and Instruments) Grant.
