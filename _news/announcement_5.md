@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Dr. Kaur received approval for the NSERC Discovery Grant and ECR Supplement funds.
+Prof. Kaur received approval for the NSERC Discovery Grant and ECR Supplement funds.
