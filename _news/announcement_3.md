@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Pritish Behora joined Kaur Lab as a PhD Physics student.
+Pritish Behura joined Kaur group as a PhD Physics student after completing M.Sc in Physics from the Indian Institute of Science Education and Research, Trivandrum, India. Welcome Pritish!
