@@ -1,14 +1,13 @@
 ---
 layout: page
 ---
-
 <div class="post">
   <article>
     <!-- Current Team Section -->
     <h2>Current Team</h2>
     {% if page.profiles %}
       {% for profile in page.profiles %}
-        {% if profile.status == "current" %}
+        {% if profile.status == 'current' %}
           <hr>
           <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
             {% if profile.image %}
@@ -42,7 +41,7 @@ layout: page
     <h2>Past Members</h2>
     {% if page.profiles %}
       {% for profile in page.profiles %}
-        {% if profile.status == "past" %}
+        {% if profile.status == 'past' %}
           <hr>
           <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
             {% if profile.image %}
