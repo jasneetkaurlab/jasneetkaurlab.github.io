@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-H. Keppetiyawa, MSc student from Kaur’s lab got first prize in the poster competition at the FMS Graduate Conference.
+Hansima, MSc student from Kaur’s group got the first prize in the poster competition at the FMS Graduate Conference. Congratulations Hansima!
