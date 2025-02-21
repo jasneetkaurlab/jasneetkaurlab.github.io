@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Kevin Stefanchuk joined Kaur lab for undergraduate thesis.
+Kevin Stefanchuk joined the lab to work on undergraduate thesis on “Nanostructured electrocatalyst development for hydrogen evolution reactions”. Welcome Kevin!
