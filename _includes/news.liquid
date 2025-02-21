@@ -9,11 +9,13 @@
     >
       <table class="table table-sm table-borderless">
         {% assign news = site.news | reverse %}
-        {% assign news_limit = 5 %} <!-- Limit to 5 recent news items -->
-        
+        {% assign news_limit = 5 %}
+        <!-- Limit to 5 recent news items -->
+
         {% for item in news limit: news_limit %}
           <tr>
-            <th scope="row" style="width: 20%">{{ item.date | date: '%b %Y' }}</th> <!-- Show only Month and Year -->
+            <th scope="row" style="width: 20%">{{ item.date | date: '%b %Y' }}</th>
+            <!-- Show only Month and Year -->
             <td>
               {% if item.inline %}
                 {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
