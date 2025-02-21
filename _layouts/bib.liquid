@@ -23,7 +23,7 @@
           <abbr class="badge rounded w-100">{{ entry.abbr }}</abbr>
         {% endif %}
       {% endif %}
-      
+
       {% if entry.preview %}
         {% if entry.preview contains '://' %}
           <img class="preview z-depth-1 rounded" src="{{ entry.preview }}" alt="Preview of {{ entry.title }}">
@@ -45,10 +45,10 @@
           {% if entry.image %}
             <img src="{{ entry.image }}" alt="{{ entry.title }}" style="width: 50px; height: auto; margin-right: 10px; vertical-align: middle;">
           {% endif %}
-          {{ entry.title | default: "Untitled" }}
+          {{ entry.title | default: 'Untitled' }}
         </a>
       {% else %}
-        {{ entry.title | default: "Untitled" }}
+        {{ entry.title | default: 'Untitled' }}
       {% endif %}
     </div>
 
