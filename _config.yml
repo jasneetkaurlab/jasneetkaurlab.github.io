@@ -2,12 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Kaur Laboratory # the website title (if blank, full name will be used instead)
+title: Kaur Group # the website title (if blank, full name will be used instead)
 first_name: Dr. Jasneet
 middle_name:
 last_name: Kaur
 image: assets/img/Logo 1.svg # Path to your logo image
-lab_name: Kaur Laboratory
+lab_name: Kaur Group
 university: Brock University
 email: jkaur2@brocku.ca
 description: >
