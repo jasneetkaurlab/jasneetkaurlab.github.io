@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Hansima Keppetiyawa joined Kaur group after completing B.Sc. in Physics from the University of Jaffna, Sri Lanka. Welcome Hansima!
+Hansima Keppetiyawa joined Kaur group as a Masters student after completing B.Sc. in Physics from the University of Jaffna, Sri Lanka. Welcome Hansima!
