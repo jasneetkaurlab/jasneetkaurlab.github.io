@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Gurmeet Singh joined Kaur lab as a PhD student.
+Gurmeet Singh joined Kaur group as a PhD student after completing M.Sc. in Physics from Delhi Technological University, Delhi, India. Welcome Gurmeet!
