@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Home
 permalink: /
 subtitle: <span style="font-size:1.05em;"> <b>Dr. Jasneet Kaur</b>, Assistant Professor, Physics and Engineering at <a href='https://brocku.ca/'>Brock University</a>. <br/></span><br>
 profile:
@@ -18,10 +18,10 @@ profile:
   more_info: "This is additional information about the profile."
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>MC E220</p>
     <p>1812 Sir Isaac Brock Way,</p>
     <p>St. Catharines,</p>
-    <p>ON - L2S 3A1</p>
+    <p>Ontario,</p> 
+    <p>Canada L2S 3A1</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
