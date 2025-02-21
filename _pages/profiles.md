@@ -9,6 +9,7 @@ nav_order: 7
 profiles:
   - align: left
     image: prof_pic.jpeg
+    status: current
     content: about_prof.md
     image_circular: true # crops the image to make it circular
     more_info: >
@@ -24,6 +25,7 @@ profiles:
 
   - align: right
     image: pritish.jpg
+    status: current
     content: about_pritish.md
     image_circular: true # crops the image to make it circular
     more_info: >
@@ -35,6 +37,7 @@ profiles:
 
   - align: left
     image: gurmeet.jpg
+    status: current
     content: about_gurmeet.md
     image_circular: true # crops the image to make it circular
     more_info: >
@@ -46,6 +49,7 @@ profiles:
 
   - align: right
     image: hansima.jpg
+    status: current
     content: about_hansima.md
     image_circular: true # crops the image to make it circular
     more_info: >
@@ -57,6 +61,7 @@ profiles:
 
   - align: left
     image: teresa.jpg
+    status: current
     content: about_teresa.md
     image_circular: true # crops the image to make it circular
     more_info: >
@@ -68,6 +73,7 @@ profiles:
 
   - align: right
     image: hiten.jpg
+    status: past
     content: about_hiten.md
     image_circular: true # crops the image to make it circular
     more_info: >
