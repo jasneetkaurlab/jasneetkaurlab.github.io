@@ -31,7 +31,7 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: |
       <div style="text-align: center;">
-       <p><strong>Pritish Behura</strong></p>
+       <p><strong>   Pritish Behura   </strong></p>
        <p>PhD in Physics</p>
        <p>E-mail: yj23wd@brocku.ca</p>
       </div>
@@ -43,7 +43,7 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: |
       <div style="text-align: center;">
-       <p><strong>Gurmeet Singh</strong></p>
+       <p><strong>   Gurmeet Singh   </strong></p>
        <p>PhD in Physics</p>
        <p>E-mail: wv24qq@brocku.ca</p>
       </div>
@@ -71,8 +71,20 @@ profiles:
        <p>Masters in Material Physics</p>
        <p>E-mail: ce23ke@brocku.ca</p>
       </div>
+      
+- align: right
+    image: kevin.jpg
+    status: current
+    content: about_kevin.md
+    image_circular: true # crops the image to make it circular
+    more_info: |
+      <div style="text-align: center;">
+       <p><strong>Kevin Stefanchuk</strong></p>
+       <p>Research Undergraduate in Physics</p>
+       <p>E-mail: ks19jv@brocku.ca</p>
+      </div>
 
-  - align: right
+- align: left
     image: hiten.jpg
     status: past
     content: about_hiten.md
@@ -81,6 +93,16 @@ profiles:
       <div style="text-align: center;">
        <p><strong>Hitenkumar Patel</strong></p>
        <p>Research Undergraduate in Physics</p>
-       <p>E-mail: hp19mx@brocku.ca</p>
+      </div>
+      
+  - align: right
+    image: matthew.jpg
+    status: past
+    content: about_Matthew.md
+    image_circular: true # crops the image to make it circular
+    more_info: |
+      <div style="text-align: center;">
+       <p><strong>Matthew Schweinbenz</strong></p>
+       <p>Research Undergraduate in Physics</p>
       </div>
 ---
