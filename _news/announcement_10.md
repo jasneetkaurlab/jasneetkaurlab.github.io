@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Dr. Kaur presented research through invited talks at the 2022 Canadian Association of Physicists meeting.
+Prof. Kaur presented research through invited talks at the 2022 Canadian Association of Physicists meeting.
