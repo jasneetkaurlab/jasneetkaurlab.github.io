@@ -71,7 +71,7 @@ profiles:
        <p>Masters in Material Physics</p>
        <p>E-mail: ce23ke@brocku.ca</p>
       </div>
-      
+
   - align: right
     image: kevin.jpg
     status: current
@@ -94,7 +94,7 @@ profiles:
        <p><strong>Hitenkumar Patel</strong></p>
        <p>Research Undergraduate in Physics</p>
       </div>
-      
+
   - align: right
     image: matthew.jpg
     status: past
