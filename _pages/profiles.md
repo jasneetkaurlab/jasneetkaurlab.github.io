@@ -4,7 +4,7 @@ permalink: /people/
 title: People
 description: The lab is operated by dedicated undergraduate, masters, and PhD students, each bringing unique skills and perspectives to our multidisciplinary research projects. Prof. Kaur and her team are committed to fostering an environment of learning and innovation.
 nav: true
-nav_order: 9
+nav_order: 7
 
 profiles:
   - align: left
@@ -72,7 +72,7 @@ profiles:
        <p>E-mail: ce23ke@brocku.ca</p>
       </div>
       
-- align: right
+  - align: right
     image: kevin.jpg
     status: current
     content: about_kevin.md
@@ -84,7 +84,7 @@ profiles:
        <p>E-mail: ks19jv@brocku.ca</p>
       </div>
 
-- align: left
+  - align: left
     image: hiten.jpg
     status: past
     content: about_hiten.md
