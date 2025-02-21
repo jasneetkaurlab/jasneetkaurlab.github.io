@@ -31,7 +31,7 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: |
       <div style="text-align: center;">
-       <p><strong>   Pritish Behura   </strong></p>
+       <p><strong>Pritish Behura</strong></p>
        <p>PhD in Physics</p>
        <p>E-mail: yj23wd@brocku.ca</p>
       </div>
@@ -43,7 +43,7 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: |
       <div style="text-align: center;">
-       <p><strong>   Gurmeet Singh   </strong></p>
+       <p><strong>Gurmeet Singh</strong></p>
        <p>PhD in Physics</p>
        <p>E-mail: wv24qq@brocku.ca</p>
       </div>
