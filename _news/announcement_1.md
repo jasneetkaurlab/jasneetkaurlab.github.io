@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Hansima joined MSc Physics at Kaur Lab
+Hansima Keppetiyawa joined Kaur group after completing B.Sc. in Physics from the University of Jaffna, Sri Lanka. Welcome Hansima!
