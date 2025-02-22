@@ -34,10 +34,10 @@
             {% assign author_array_size = content.author_array | size %}
             {% for author in content.author_array %}
               {%- if forloop.first == false %}, {% endif %}
-              {{ author.first }} {{ author.last }}
+              {{ author.first }}
+              {{ author.last }}
             {% endfor %}
           </h6>
-
 
           <!-- Display Preview Image if it exists -->
           {% if content.preview %}
