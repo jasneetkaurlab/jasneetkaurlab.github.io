@@ -68,5 +68,17 @@
     {% include scripts/progressBar.liquid %}
     {% include scripts/wechatModal.liquid %}
     {% include scripts/imageLayouts.liquid %}
+
+    <!-- BibTeX Toggle Script -->
+    <script type="text/javascript">
+      function toggleBibtex(button) {
+        var bibEntry = button.nextElementSibling; // This gets the <pre> tag with the BibTeX entry
+        if (bibEntry.style.display === "none") {
+          bibEntry.style.display = "block";  // Show the BibTeX entry
+        } else {
+          bibEntry.style.display = "none";   // Hide the BibTeX entry
+        }
+      }
+    </script>
   </body>
 </html>
