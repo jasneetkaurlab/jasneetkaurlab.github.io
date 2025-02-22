@@ -77,7 +77,9 @@
               {%- assign coauthor_url = coauthor.url -%}
               {% break %}
             {% endif %}
-          {{ author.first | strip }} {{ author_last_html | strip }}{% unless forloop.last %},{% endunless %}
+            {{ author.first | strip }}
+            {{ author_last_html | strip -}}
+            {%- unless forloop.last %},{% endunless %}
           {%- endfor %}
         {% endif %}
 
