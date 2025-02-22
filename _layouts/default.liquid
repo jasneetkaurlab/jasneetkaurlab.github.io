@@ -69,15 +69,20 @@
     {% include scripts/wechatModal.liquid %}
     {% include scripts/imageLayouts.liquid %}
 
-    <!-- BibTeX Toggle Script -->
-    <script type="text/javascript">
-      function toggleBibtex(button) {
-        var bibEntry = button.nextElementSibling; // This gets the <pre> tag with the BibTeX entry
-        if (bibEntry.style.display === 'none') {
-          bibEntry.style.display = 'block'; // Show the BibTeX entry
-        } else {
-          bibEntry.style.display = 'none'; // Hide the BibTeX entry
-        }
+    <script>
+      function openBibTex(bibtexContent) {
+        // Create a new window or tab
+        var newWindow = window.open('', '_blank');
+      
+        // Write the BibTeX content to the new window
+        newWindow.document.write('<html><head><title>BibTeX Citation</title></head><body>');
+        newWindow.document.write('<pre style="white-space: pre-wrap; font-family: \'Courier New\', Courier, monospace; font-size: 14px; background-color: #f4f4f4; padding: 10px; border-radius: 5px;">');
+        newWindow.document.write(bibtexContent);
+        newWindow.document.write('</pre>');
+        newWindow.document.write('</body></html>');
+      
+        // Close the document to render the content
+        newWindow.document.close();
       }
     </script>
   </body>
