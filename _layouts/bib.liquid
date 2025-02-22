@@ -161,6 +161,7 @@
       {% endif %}
       {% if entry.bibtex_show %}
         <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+        <pre class="bibtex-entry hidden">{{ entry.bibtex }}</pre>
       {% endif %}
       {% if entry.pdf %}
         <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
