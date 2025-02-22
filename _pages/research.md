@@ -30,7 +30,7 @@ pagination:
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Bidirectional Superionic Conduction in Surface-Engineered 2D Hexagonal Boron Nitrides, J. Kaur et al. ACS Applied Materials and Interfaces, 2021.
 </div>
 
 <div class="row justify-content-sm-center">
@@ -42,7 +42,7 @@ pagination:
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    AFM scan of synthesized nanoflakes and XRD spectra of MXenes.
 </div>
 
 <h3>Characterization of Nanomaterials and Advanced Composites</h3>
@@ -61,7 +61,7 @@ pagination:
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    SEM-EDS of nanoflowers, SEM of titanium carbide MXenes, AFM scan of titanium carbide MXenes.
 </div>
 
 <h3>Solid State Electrolytes for Building Better Batteries and Supercapacitors</h3>
@@ -90,5 +90,5 @@ pagination:
     </div>
 </div>
 <div class="caption">
-    2D Hexagonal Boron Nitrides for Anion Exchange Membrane Water Electrolysis and Sustainable Hydrogen Production, J. Kaur et al. 2024.
+    Hydroxyl-Conductive 2D Hexagonal Boron Nitrides for Anion Exchange Membrane Water Electrolysis and Sustainable Hydrogen Production, J. Kaur et al. Sustainable Energy & Fuels, 2025 https://pubs.rsc.org/en/content/articlelanding/2025/se/d4se01671h
 </div>
