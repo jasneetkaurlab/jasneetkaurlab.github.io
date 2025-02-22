@@ -36,4 +36,4 @@ social: true # includes social icons at the bottom of the page
 
 <span style="font-size:1.05em;">Students working in Kaur group will gain experience in materials physics, analytical chemistry, electrochemistry, and advanced spectroscopic and characterization techniques, such as infrared spectroscopy, X-ray diffraction, Raman spectroscopy, scanning electron microscopy, atomic force microscopy and electrochemical impedance spectroscopy.</span>
 
-<span style="font-size:1.05em;"><b>Students who are interested in joining the lab should contact Prof. Kaur @ <a href="mailto:jkaur2@brocku.ca">jkaur2@brocku.ca</a>.</b></span>
+<span style="font-size:1.05em;"><b>Students who are interested in joining the lab should contact Prof. Kaur @ <a href="mailto:jasneet.kaur@brocku.ca">jasneet.kaur@brocku.ca</a>.</b></span>
