@@ -160,8 +160,8 @@
         <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
       {% endif %}
       {% if entry.bibtex_show %}
-        <a class="bibtex btn btn-sm z-depth-0" role="button" onclick="toggleBibtex(this)">Bib</a>
-        <pre class="bibtex-entry hidden">{{ entry.bibtex }}</pre>
+        <a class="bibtex btn btn-sm z-depth-0" role="button" href="javascript:void(0);" onclick="toggleBibtex(this)">Bib</a>
+        <pre class="bibtex-entry hidden" style="display: none;">{{ entry.bibtex }}</pre>
       {% endif %}
       {% if entry.pdf %}
         <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
