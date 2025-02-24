@@ -34,6 +34,6 @@ social: true # includes social icons at the bottom of the page
 
 <span style="font-size:1.05em;">Our group synthesizes, functionalizes, and characterizes nanomaterials, including two-dimensional materials, such as graphene, hexagonal boron nitrides and MXenes and fabricate nanocomposites using polymers. We investigate the structural, and chemical properties of 2D materials and study their interactions with functionalizers and polymers using advanced spectroscopic and microscopic techniques to develop innovative applications and clean technologies.</span>
 
-<span style="font-size:1.05em;">Students working in Kaur group will gain experience in materials physics, analytical chemistry, electrochemistry, and advanced spectroscopic and characterization techniques, such as infrared spectroscopy, X-ray diffraction, Raman spectroscopy, scanning electron microscopy, atomic force microscopy and electrochemical impedance spectroscopy.</span>
+<span style="font-size:1.05em;">Students working in Kaur group will gain experience in materials physics, engineering of nanostructures, electrochemistry, and advanced spectroscopic and characterization techniques, including infrared spectroscopy, X-ray diffraction, X-ray photoelectron spectroscopy, Raman spectroscopy, scanning and transmission electron microscopy, atomic force microscopy and electrochemical measurement techniques.</span>
 
 <span style="font-size:1.05em;"><b>Students who are interested in joining the lab should contact Prof. Kaur @ <a href="mailto:jasneet.kaur@brocku.ca">jasneet.kaur@brocku.ca</a>.</b></span>
