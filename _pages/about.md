@@ -18,7 +18,7 @@ profile:
   more_info: "This is additional information about the profile."
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>1812 Sir Isaac Brock Way,</p>
+    <p>Department of Physics, 1812 Sir Isaac Brock Way,</p>
     <p>St. Catharines,</p>
     <p>Ontario,</p> 
     <p>Canada L2S 3A1</p>
