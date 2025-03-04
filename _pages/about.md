@@ -6,13 +6,13 @@ subtitle: <span style="font-size:1.05em;"> <b>Dr. Jasneet Kaur</b>, Assistant Pr
 profile:
   align: right
   images:
+    - group.jpg
     - SEMP1.png
     - SEMP2.png
     - SEMP3.png
     - SEMP4.png
     - EDS1.png
     - EDS2.png
-    - SEM7.png
     - SEM8.png
     - SEM9.jpg
   more_info: "This is additional information about the profile."
