@@ -42,10 +42,10 @@
           <!-- Display Preview Image -->
           {% if content.preview %}
             {% if content.preview contains '://' %}
-              <img class="preview z-depth-1 rounded" src="{{ content.preview }}" alt="Preview of {{ content.name }}">
+              <img class="preview d-block mx-auto z-depth-1 rounded" src="{{ content.preview }}" alt="Preview of {{ content.name }}">
             {% else %}
               {% assign entry_path = content.preview | prepend: '/assets/img/publication_preview/' %}
-              <img class="preview z-depth-1 rounded" src="{{ entry_path }}" alt="Preview of {{ content.name }}">
+              <img class="preview d-block mx-auto z-depth-1 rounded" src="{{ entry_path }}" alt="Preview of {{ content.name }}">
             {% endif %}
           {% endif %}
         </div>
@@ -58,7 +58,7 @@
   .preview {
     max-width: 100%;
     height: auto;
-    max-height: 300px; /* Adjust as needed */
+    max-height: 200px; /* Adjust as needed */
     display: block;
     margin-top: 10px;
     object-fit: contain;
