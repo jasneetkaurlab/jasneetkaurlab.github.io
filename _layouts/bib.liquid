@@ -26,10 +26,10 @@
 
       {% if entry.preview %}
         {% if entry.preview contains '://' %}
-          <img class="preview z-depth-1 rounded" src="{{ entry.preview }}" alt="Preview of {{ entry.title }}">
+          <img class="preview d-block mx-auto z-depth-1 rounded" src="{{ entry.preview }}" alt="Preview of {{ entry.title }}">
         {% else %}
           {% assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' %}
-          {% include figure.liquid loading="lazy" path=entry_path sizes="200px" class="preview z-depth-1 rounded" zoomable=true alt="Preview of {{ entry.title }}" %}
+          {% include figure.liquid loading="lazy" path=entry_path sizes="200px" class="preview d-block mx-auto z-depth-1 rounded" zoomable=true alt="Preview of {{ entry.title }}" %}
         {% endif %}
       {% endif %}
     </div>
@@ -199,7 +199,7 @@
   .preview {
     max-width: 100%;
     height: auto;
-    max-height: 300px; /* Adjust if needed */
+    max-height: 200px; /* Adjust if needed */
     display: block;
     margin-top: 10px;
     object-fit: contain;
