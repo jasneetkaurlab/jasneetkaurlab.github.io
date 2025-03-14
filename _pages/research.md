@@ -64,13 +64,11 @@ pagination:
     SEM-EDS of nanoflowers, SEM of titanium carbide MXenes, AFM scan of titanium carbide MXenes.
 </div>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <video controls class="img-fluid rounded z-depth-1">
-            <source src="assets/video/sem1.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
-    </div>
+<div class="container-fluid p-0">
+    <video controls autoplay loop muted playsinline class="w-100" style="height: 100vh; object-fit: cover;">
+        <source src="assets/video/sem1.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
 </div>
 <div class="caption">
     See how we characterize nanostructures using AFM and SEM.
