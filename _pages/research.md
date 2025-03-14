@@ -47,7 +47,11 @@ pagination:
 
 <h3>Characterization of Nanomaterials and Advanced Composites</h3>
 
-<p>We study properties of nanostructures by various spectroscopic and microscopic characterization techniques, such as XRD, FTIR, Raman Microscopy, Atomic Force Microscopy, X-ray Photoelectron spectroscopy and scanning and transmission electron microscopy. Polymer composites fabricated for creating components of energy storage and conversion devices are studied using electrochemical techniques, such as linear sweep voltammetry, cyclic voltammetry and electrochemical impedance spectroscopy techniques. [See how we characterize nanostructures using AFM and SEM.](<https://www.linkedin.com/feed/update/urn:li:activity:7262224860867682304/>)</p>
+<p>We study properties of nanostructures by various spectroscopic and microscopic characterization techniques, such as XRD, FTIR, Raman Microscopy, Atomic Force Microscopy, X-ray Photoelectron spectroscopy and scanning and transmission electron microscopy. Polymer composites fabricated for creating components of energy storage and conversion devices are studied using electrochemical techniques, such as linear sweep voltammetry, cyclic voltammetry and electrochemical impedance spectroscopy techniques.</p>
+
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7262224860867682304/" target="_blank" rel="noopener noreferrer">
+  See how we characterize nanostructures using AFM and SEM.
+</a>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
