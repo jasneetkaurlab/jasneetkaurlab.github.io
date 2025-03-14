@@ -64,6 +64,18 @@ pagination:
     SEM-EDS of nanoflowers, SEM of titanium carbide MXenes, AFM scan of titanium carbide MXenes.
 </div>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <video controls class="img-fluid rounded z-depth-1">
+            <source src="assets/video/sem1.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+</div>
+<div class="caption">
+    See how we characterize nanostructures using AFM and SEM.
+</div>
+
 <h3>Solid State Electrolytes for Building Better Batteries and Supercapacitors</h3>
 
 <p>Our focus is on creating flexible and durable solid-state electrolytes for all-solid-state batteries and high energy density supercapacitors. We utilize the multifunctionality and unique features of nanostructured materials and 2D materials to create specific ion conductive solid-state electrolytes and study the mechanisms of ion transport.</p>
