@@ -49,18 +49,6 @@ profiles:
       </div>
 
   - align: right
-    image: hansima.jpg
-    status: current
-    content: about_hansima.md
-    image_circular: true # crops the image to make it circular
-    more_info: |
-      <div style="text-align: center;">
-       <p><strong>Hansima Keppetiyawa</strong></p>
-       <p>Masters of Science in Physics</p>
-       <p>E-mail: hk22yh@brocku.ca</p>
-      </div>
-
-  - align: left
     image: teresa.jpg
     status: current
     content: about_teresa.md
@@ -68,11 +56,11 @@ profiles:
     more_info: |
       <div style="text-align: center;">
        <p><strong>Teresa Dong</strong></p>
-       <p>Masters of Science in Material Physics</p>
+       <p>PhD in Physics</p>
        <p>E-mail: ce23ke@brocku.ca</p>
       </div>
 
-  - align: right
+  - align: left
     image: kevin.jpg
     status: current
     content: about_kevin.md
@@ -80,8 +68,20 @@ profiles:
     more_info: |
       <div style="text-align: center;">
        <p><strong>Kevin Stefanchuk</strong></p>
-       <p>Research Undergraduate in Physics</p>
+       <p>Masters of Science in Physics</p>
        <p>E-mail: ks19jv@brocku.ca</p>
+      </div>
+
+  - align: right
+    image: hansima.jpg
+    status: past
+    content: about_hansima.md
+    image_circular: true # crops the image to make it circular
+    more_info: |
+      <div style="text-align: center;">
+       <p><strong>Hansima Keppetiyawa</strong></p>
+       <p>Masters of Science in Physics</p>
+       <p>E-mail: hk22yh@brocku.ca</p>
       </div>
 
   - align: left
