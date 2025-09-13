@@ -1,3 +1,3 @@
 ### Biography
 
-Teresa has completed bachelor's degree in Materials Engineering at McMaster University. Now she is in the MSMP Graduate Program and working on a research project with Dr. Kaur's group. She is studying 2D materials’ topography and electrical properties by Atomic Force Microscopy.
+Teresa has completed bachelor’s degree in Materials Engineering at McMaster University and Masters of Science  in Materials Physics at Brock University in 2025. During her masters, she worked in Dr. Kaur's group on atomic force microscopy of 2D materials and development of novel anion exchange membranes for green hydrogen systems. 
