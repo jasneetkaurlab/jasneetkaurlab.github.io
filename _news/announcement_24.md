@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Pritish Behura, Gurmeet Singh and Kevin Stefanchuk from Kaur group present their research at [2025 FMS Grad Conference](https://brocku.ca/mathematics-science/fms-grad-conference/). All the presentations were well done. Kevin Stefanchuk won third prize in poster compettition!
+Pritish Behura, Gurmeet Singh and Kevin Stefanchuk from Kaur group presented their research at [2025 FMS Grad Conference](https://brocku.ca/mathematics-science/fms-grad-conference/). All the presentations were well done. Kevin Stefanchuk won third prize in poster competition!
