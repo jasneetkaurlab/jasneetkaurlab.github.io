@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-June 2026: Pritish Behura passed his PhD Comprehensive Exam. Congrats, Pritish!
+Pritish Behura passed his PhD Comprehensive Exam. Congrats, Pritish!

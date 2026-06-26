@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-June 2026: Gurmeet Singh presents latest results from the Nano Energy publication at the [Nanogenerator and Piezotronics Conference 2026](https://www.ngpt2026.org/main/pr_schedule.htm) in Seoul, South Korea.
+Gurmeet Singh presents latest results from the Nano Energy publication at the [Nanogenerator and Piezotronics Conference 2026](https://www.ngpt2026.org/main/pr_schedule.htm) in Seoul, South Korea.

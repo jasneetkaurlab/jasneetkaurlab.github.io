@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-April 2026: New research study titled _[A novel temperature-dependent theoretical model for polymer contact–separation triboelectric nanogenerators](https://www.sciencedirect.com/science/article/pii/S2211285526002466)_ published in Nano Energy journal. Congratulations to the team!
+New research study titled _[A novel temperature-dependent theoretical model for polymer contact–separation triboelectric nanogenerators](https://www.sciencedirect.com/science/article/pii/S2211285526002466)_ published in Nano Energy journal. Congratulations to the team!
