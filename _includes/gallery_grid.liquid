@@ -36,6 +36,11 @@
   .gallery-grid .gallery-item:hover img {
     transform: scale(1.07);
   }
+  /* When zoomed in, show the whole image at its real aspect ratio
+     instead of the square cover-crop used for the grid thumbnails. */
+  img.medium-zoom-image--opened {
+    object-fit: contain !important;
+  }
 </style>
 
 <div class="gallery-grid">
