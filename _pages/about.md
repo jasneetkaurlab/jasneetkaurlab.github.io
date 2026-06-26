@@ -10,11 +10,10 @@ profile:
     - SEMP1.png
     - SEMP2.png
     - SEMP3.png
-    - SEMP4.png
     - EDS1.png
-    - EDS2.png
     - SEM8.png
     - SEM9.jpg
+    - electrocatalyst_her_oer.png
   more_info: "This is additional information about the profile."
   image_circular: false # crops the image to make it circular
   more_info: >
