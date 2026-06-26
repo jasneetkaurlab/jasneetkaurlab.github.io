@@ -2,13 +2,13 @@
   Auto gallery grid.
   Renders every image dropped into assets/img/gallery/ — no per-photo config needed.
   Optional param: limit (max number of images to show, e.g. for the homepage preview).
-  Sorted newest-uploaded first.
+  Sorted by filename — prefix files with a zero-padded number (01, 02, ...) to
+  control order; lower numbers appear first.
 -->
 {% assign gallery_images = site.static_files
   | where_exp: 'f', "f.path contains '/assets/img/gallery/'"
   | where_exp: 'f', "f.extname != '.webp'"
-  | sort: 'modified_time'
-  | reverse
+  | sort: 'name'
 %}
 {% assign img_exts = '.jpg,.jpeg,.png,.gif,.tiff' | split: ',' %}
 
