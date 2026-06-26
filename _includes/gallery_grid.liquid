@@ -1,0 +1,52 @@
+<!--
+  Auto gallery grid.
+  Renders every image dropped into assets/img/gallery/ — no per-photo config needed.
+  Optional param: limit (max number of images to show, e.g. for the homepage preview).
+  Sorted newest-uploaded first.
+-->
+{% assign gallery_images = site.static_files
+  | where_exp: 'f', "f.path contains '/assets/img/gallery/'"
+  | where_exp: 'f', "f.extname != '.webp'"
+  | sort: 'modified_time'
+  | reverse
+%}
+{% assign img_exts = '.jpg,.jpeg,.png,.gif,.tiff' | split: ',' %}
+
+<style>
+  .gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 12px;
+    margin: 1.5rem 0;
+  }
+  .gallery-grid .gallery-item {
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+  }
+  .gallery-grid .gallery-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    cursor: zoom-in;
+    transition: transform 0.35s ease;
+    display: block;
+  }
+  .gallery-grid .gallery-item:hover img {
+    transform: scale(1.07);
+  }
+</style>
+
+<div class="gallery-grid">
+  {% assign shown = 0 %}
+  {% for img in gallery_images %}
+    {% assign ext = img.extname | downcase %}
+    {% unless img_exts contains ext %}{% continue %}{% endunless %}
+    {% if include.limit and shown >= include.limit %}{% break %}{% endif %}
+    <div class="gallery-item">
+      <img src="{{ img.path | relative_url }}" data-zoomable loading="lazy" alt="{{ img.basename }}">
+    </div>
+    {% assign shown = shown | plus: 1 %}
+  {% endfor %}
+</div>

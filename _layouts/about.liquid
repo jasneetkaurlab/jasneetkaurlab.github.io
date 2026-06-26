@@ -81,6 +81,22 @@ layout: default
     {% include news.liquid limit=true %}
   {% endif %}
 
+  {% assign home_gallery = site.static_files | where_exp: 'f', "f.path contains '/assets/img/gallery/'" | where_exp: 'f', "f.extname != '.webp'" %}
+  {% if page.gallery and home_gallery.size > 0 %}
+    <h2>
+      <a href="{{ '/gallery/' | relative_url }}" style="color: inherit">gallery</a>
+    </h2>
+    {% include gallery_grid.liquid limit=6 %}
+    <div style="text-align: center; margin: 0.5rem 0 2rem;">
+      <a
+        href="{{ '/gallery/' | relative_url }}"
+        role="button"
+        style="display: inline-block; background-color: #58b376; color: #fff; padding: 8px 22px; border-radius: 6px; text-decoration: none; font-weight: 500;"
+        >See full gallery &rarr;</a
+      >
+    </div>
+  {% endif %}
+
   {% if site.latest_posts.enabled %}
     <h2>
       <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>

@@ -24,6 +24,7 @@ profile:
     <p>Canada L2S 3A1</p>
 
 news: true # includes a list of news items
+gallery: true # includes a preview of photos from assets/img/gallery/
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
