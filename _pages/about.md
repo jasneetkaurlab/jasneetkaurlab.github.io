@@ -11,7 +11,6 @@ profile:
     - HER-OER-white-background.jpg
     - SEMP2.png
     - SEMP3.png
-    - EDS1.png
     - SEM8.png
     - SEM9.jpg
   more_info: "This is additional information about the profile."
