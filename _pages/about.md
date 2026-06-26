@@ -7,13 +7,13 @@ profile:
   align: right
   images:
     - group.jpg
-    - SEMP1.png
+    - MXene-flakes-as-fishes.png
+    - HER-OER-white-background.jpg
     - SEMP2.png
     - SEMP3.png
     - EDS1.png
     - SEM8.png
     - SEM9.jpg
-    - electrocatalyst_her_oer.png
   more_info: "This is additional information about the profile."
   image_circular: false # crops the image to make it circular
   more_info: >
