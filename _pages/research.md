@@ -18,59 +18,38 @@ pagination:
 
 <h2><b>Discovery of Nanomaterials and Advanced Composites for Clean Energy Technologies</b></h2>
 
-<h3>Nanoscience and Surface Engineering</h3>
-<p>We learn to control size, engineer surface by studying surface physics and chemistry, and structure of nanomaterials, including two-dimensional nanostructures to design and create new materials and study nanoscale phenomena. We also perform in-situ and ex-situ functionalization on the surface of nanostructures with ionomers, organic or inorganic molecules to tune the properties of nanomaterials and study mechanisms of interactions. The ability to surface engineering and tuning the properties of nanomaterials by varying their structural characteristics, such as size, shape, surface morphology, and surface chemistry paves the way for a variety of applications.</p>
+<h3>2D Materials: Design, Synthesis and Characterization</h3>
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/tipSonicator.png" title="Tip sonicator" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/MXene.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Bidirectional Superionic Conduction in Surface-Engineered 2D Hexagonal Boron Nitrides, J. Kaur et al. ACS Applied Materials and Interfaces, 2021.
-</div>
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/AFM.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/xrd.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    AFM scan of synthesized nanoflakes and XRD spectra of MXenes.
-</div>
-
-<h3>Characterization of Nanomaterials and Advanced Composites</h3>
-
-<p>We study properties of nanostructures by various spectroscopic and microscopic characterization techniques, such as XRD, FTIR, Raman Microscopy, Atomic Force Microscopy, X-ray Photoelectron spectroscopy and scanning and transmission electron microscopy. Polymer composites fabricated for creating components of energy storage and conversion devices are studied using electrochemical techniques, such as linear sweep voltammetry, cyclic voltammetry and electrochemical impedance spectroscopy techniques.</p>
+<p>Our research focuses on the design, synthesis, functionalization, and characterization of advanced two-dimensional (2D) materials, including MXenes, graphene, hexagonal boron nitride (hBN), transition metal dichalcogenides (TMDs), and layered nanostructures. By tailoring their composition, surface chemistry, and interfacial properties, we develop multifunctional nanomaterials with enhanced electrical, ionic, mechanical, and electrochemical performance. Advanced microscopy, spectroscopy, diffraction, and electrochemical techniques are employed to establish structure-property relationships that guide the design of next-generation materials for energy conversion, storage, and sustainable technologies.</p>
 
 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7262224860867682304/" target="_blank" rel="noopener noreferrer">
   See how we characterize nanostructures using AFM and SEM.
 </a>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/SEMP1.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/SEMP2.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/SEMP3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-sm-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/mxene_synthesis.png" title="Synthesis and engineering of titanium carbide MXenes" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    SEM-EDS of nanoflowers, SEM of titanium carbide MXenes, AFM scan of titanium carbide MXenes.
+    Synthesis and engineering of titanium carbide MXenes. P. K. Behura et al., International Journal of Hydrogen Energy, 2026. <a href="https://www.sciencedirect.com/science/article/pii/S0360319926018276" target="_blank" rel="noopener noreferrer">https://www.sciencedirect.com/science/article/pii/S0360319926018276</a>
 </div>
 
-<h3>Solid State Electrolytes for Building Better Batteries and Supercapacitors</h3>
+<div class="row justify-content-sm-center">
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/mxene_sem_eds.png" title="SEM-EDS of titanium carbide MXene" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-7 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/mxene_raman.jpg" title="Raman spectroscopy of titanium carbide MXene" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    MXene structure and Raman spectroscopy. H. Keppetiyawa et al., Graphene and 2D Materials, 2026. <a href="https://link.springer.com/article/10.1007/s41127-026-00102-x" target="_blank" rel="noopener noreferrer">https://link.springer.com/article/10.1007/s41127-026-00102-x</a>
+</div>
 
-<p>Our focus is on creating flexible and durable solid-state electrolytes for all-solid-state batteries and high energy density supercapacitors. We utilize the multifunctionality and unique features of nanostructured materials and 2D materials to create specific ion conductive solid-state electrolytes and study the mechanisms of ion transport.</p>
+<h3>Solid-State Electrolytes and Ion-Conductive Membranes</h3>
+
+<p>Our group develops high-performance solid polymer electrolytes and ion-conductive membranes for next-generation batteries, supercapacitors, and water electrolysers. We investigate ion transport mechanisms, polymer–nanomaterial interactions, and structure–property relationships to improve conductivity, stability, and long-term device performance under realistic operating conditions.</p>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
@@ -81,18 +60,40 @@ pagination:
     </div>
 </div>
 <div class="caption">
-    Bidirectional Superionic Conduction in Surface-Engineered 2D Hexagonal Boron Nitrides, J. Kaur et al. ACS Applied Materials and Interfaces, 2021 https://pubs.acs.org/doi/10.1021/acsami.0c21234
+    Bidirectional Superionic Conduction in Surface-Engineered 2D Hexagonal Boron Nitrides, J. Kaur et al. ACS Applied Materials and Interfaces, 2021 <a href="https://pubs.acs.org/doi/10.1021/acsami.0c21234" target="_blank" rel="noopener noreferrer">https://pubs.acs.org/doi/10.1021/acsami.0c21234</a>
 </div>
 
-<h3>Electrochemical Cells and Device Assembly</h3>
-
-<p>We use various lab-scale electrochemical cells for optimizing the performance and activity of fabricated electrolytes, electrocatalysts and electrodes. With the help of the machine shop at Brock University, we design and fabricate custom cells according to project needs and study the electrochemical performance of the components individually and integrated as a device.</p>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/IEM.png" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/ion_conductive_membrane_2d.png" title="Ion conductive membrane design using 2D materials" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Hydroxyl-Conductive 2D Hexagonal Boron Nitrides for Anion Exchange Membrane Water Electrolysis and Sustainable Hydrogen Production, J. Kaur et al. Sustainable Energy & Fuels, 2025 https://pubs.rsc.org/en/content/articlelanding/2025/se/d4se01671h
+    Ion conductive membrane design using 2D materials. P. K. Behura et al., Energy Storage Materials, 2026. <a href="https://www.sciencedirect.com/science/article/pii/S2405829726001492" target="_blank" rel="noopener noreferrer">https://www.sciencedirect.com/science/article/pii/S2405829726001492</a>
+</div>
+
+<h3>Electrocatalyst Development for Clean Hydrogen Production</h3>
+
+<p>We develop earth-abundant electrocatalysts based on novel two-dimensional materials and nanostructured heterostructures for efficient alkaline water electrolysis. Our research focuses on engineering catalyst composition, electronic structure, defect engineering, and surface interfaces to accelerate the hydrogen evolution reaction (HER) and oxygen evolution reaction (OER). By combining advanced synthesis with electrochemical evaluation and nanoscale characterization, we establish structure–activity relationships that guide the design of highly active, durable, and scalable catalysts for clean hydrogen production and renewable energy technologies. This work includes transition metal-based catalysts, MXene-enabled catalyst architectures, and multifunctional hybrid nanomaterials that provide efficient alternatives to precious-metal catalysts.</p>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/electrocatalyst_her_oer.png" title="Novel electrocatalyst development for HER and OER" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Novel electrocatalyst development. P. K. Behura et al., International Journal of Hydrogen Energy, 2026. <a href="https://www.sciencedirect.com/science/article/pii/S0360319926018276" target="_blank" rel="noopener noreferrer">https://www.sciencedirect.com/science/article/pii/S0360319926018276</a>
+</div>
+
+<h3>Triboelectric Nanogenerators and Energy Harvesting</h3>
+
+<p>Our research also focuses on the development of triboelectric nanogenerators (TENGs) for self-powered energy harvesting and sensing applications. We combine novel materials design with theoretical modeling and computational simulations to understand how material properties, interfacial interactions, and environmental factors such as humidity and temperature influence device performance. This fundamental understanding enables the rational design of high-performance TENGs for flexible and wearable electronics, smart sensors, and next-generation self-powered systems.</p>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/teng_temperature.jpg" title="Temperature dependent study of triboelectric nanogenerators" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Temperature dependent study of TENGs. G. Singh et al., Nano Energy, 2026. <a href="https://www.sciencedirect.com/science/article/pii/S2211285526002466" target="_blank" rel="noopener noreferrer">https://www.sciencedirect.com/science/article/pii/S2211285526002466</a>
 </div>
