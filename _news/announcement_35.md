@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Pritish Behura passed his PhD Comprehensive Exam. Congrats, Pritish!
+Pritish Behura passed his PhD Candidacy Exam. Congrats, Pritish!
