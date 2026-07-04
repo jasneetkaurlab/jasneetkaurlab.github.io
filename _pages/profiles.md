@@ -15,7 +15,7 @@ profiles:
     more_info: |
       <div style="text-align: center;">
        <p><strong>Prof. Jasneet Kaur</strong></p>
-       <p>Assistant Professor</p>
+       <p>Associate Professor</p>
        <p>Physics and Engineering</p>
        <p>MC E220, 1812 Sir Isaac Brock Way, St. Catharines, Ontario, Canada L2S 3A1</p>
        <p>E-mail: jkaur2@brocku.ca</p>

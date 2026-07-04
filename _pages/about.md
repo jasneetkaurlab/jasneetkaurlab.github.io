@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <span style="font-size:1.05em;"> <b>Dr. Jasneet Kaur</b>, Assistant Professor, Physics and Engineering at <a href='https://brocku.ca/'>Brock University</a>. <br/></span><br>
+subtitle: <span style="font-size:1.05em;"> <b>Dr. Jasneet Kaur</b>, Associate Professor, Physics and Engineering at <a href='https://brocku.ca/'>Brock University</a>. <br/></span><br>
 profile:
   align: right
   images:
