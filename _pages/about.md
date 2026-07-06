@@ -16,10 +16,10 @@ profile:
   more_info: "This is additional information about the profile."
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department of Physics, 1812 Sir Isaac Brock Way,</p>
+    <p>Department of Physics, Brock University, 1812 Sir Isaac Brock Way,</p>
     <p>St. Catharines,</p>
     <p>Ontario,</p> 
-    <p>Canada L2S 3A1</p>
+    <p>Canada </p>
 
 news: true # includes a list of news items
 gallery: true # includes a preview of photos from assets/img/gallery/
