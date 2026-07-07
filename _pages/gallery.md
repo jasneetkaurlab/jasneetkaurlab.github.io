@@ -2,7 +2,7 @@
 layout: page
 permalink: /gallery/
 title: Gallery
-description: Photos from the Sustainable Nano Engineered Materials Lab — research, group activities, and events.
+description: Photos from the Sustainable Nano Engineered Materials Laboratory — research, group activities, and events.
 nav: true
 nav_order: 6
 ---
