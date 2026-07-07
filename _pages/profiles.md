@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: People
+title: Team
 description: The lab is operated by dedicated undergraduate, masters, and PhD students, each bringing unique skills and perspectives to our multidisciplinary research projects. Prof. Kaur and her team are committed to fostering an environment of learning and innovation.
 nav: true
 nav_order: 7
