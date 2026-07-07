@@ -9,7 +9,7 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-Located in the heart of Brock University, the Sustainable Nano Engineered Materials Lab, led by Dr. Jasneet Kaur, is at the forefront of researching and developing advanced materials for various applications, including energy storage, conversion and energy harvesting. Our lab is equipped with state-of-the-art instruments which are essential for the synthesis, functionalization, and characterization of novel nanomaterials.
+Located in the heart of Brock University, the Sustainable Nano Engineered Materials Laboratory, led by Dr. Jasneet Kaur, is at the forefront of researching and developing advanced materials for various applications, including energy storage, conversion and energy harvesting. Our lab is equipped with state-of-the-art instruments which are essential for the synthesis, functionalization, and characterization of novel nanomaterials.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
