@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our group's innovation on advanced solid polymer electrolytes highlighted in [Brock News](https://brocku.ca/brock-news/2026/04/brock-innovation-seeks-to-boost-battery-life-and-safety/).
+Our group's innovation on advanced solid polymer electrolytes is highlighted in [Brock News](https://brocku.ca/brock-news/2026/04/brock-innovation-seeks-to-boost-battery-life-and-safety/).
